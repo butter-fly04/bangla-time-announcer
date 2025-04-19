@@ -1,6 +1,7 @@
 # bangla-time-announcer
 
 put the /time_announcer_audio directory in the home folder
+
 make the script executabe 
 
 ### Usage
